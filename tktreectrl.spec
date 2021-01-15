@@ -6,7 +6,7 @@ Name:          tktreectrl
 Summary:       A flexible listbox widget for Tk
 Version:       2.4.1
 Release:       1
-License:       Tcl License
+License:       TCL
 Group:         Development/Libraries/Tcl
 Source:        %{name}-%{version}.tar.gz
 URL:           http://tktreectrl.sourceforge.net/
